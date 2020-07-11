@@ -1,0 +1,17 @@
+input-fields{
+   margin: 0 auto;
+}
+.input-fields td{
+   padding-bottom: 15px;
+}
+.input-fields td span{
+   float: right;
+   direction:rtl;
+}
+.input-fields td input[type=text], .input-fields td input[type=password]{
+   width: 180px;
+}
+.input-fields td a{
+   float: right;
+   margin-top: 3px;
+}
