@@ -1,0 +1,11 @@
+a{
+   text-decoration: none;
+   color: #131313;
+}
+a:hover{
+   color: #ff332c;
+   cursor: pointer;
+}
+html{
+   background: rgb(98, 216, 216);
+}
